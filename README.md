@@ -1,9 +1,9 @@
-## Code Quiz
+# Code Quiz
 
 This is a straightforward online code quiz tool that lets users assess their JavaScript proficiency. It has multiple-choice questions, a high score function, and a timer.
 
 
-# Features
+## Features
 
 Start the Quiz.
 
@@ -19,7 +19,7 @@ Add your score to a high score list and save your initials.
 
 Sort them by score and show the highest scores.
 
-# Technologies Used
+## Technologies Used
 
 HTML
 
@@ -28,7 +28,7 @@ CSS
 JavaScript
 
 
-# Screenshots
+## Screenshots
 
 <img src="./assets/images/Screenshot (7).png"/>
 
@@ -45,17 +45,17 @@ JavaScript
 <img src="./assets/images/Screenshot (13).png"/>
 
 
-# License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-# Author
+## Author
 
 Devonte Miller
 
 
-# Acknowledgments
+## Acknowledgments
 
 Inspired by online quiz and trivia games.
 Built for educational purposes and fun JavaScript practice.

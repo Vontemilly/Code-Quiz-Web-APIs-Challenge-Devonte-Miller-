@@ -5,7 +5,7 @@ This is a straightforward online code quiz tool that lets users assess their Jav
 
 # Features
 
-Launch the Quiz.
+Start the Quiz.
 
 Respond to multiple-choice inquiries.
 
@@ -27,5 +27,35 @@ CSS
 
 JavaScript
 
+
 # Screenshots
 
+<img src="./assets/images/Screenshot (7).png"/>
+
+<img src="./assets/images/Screenshot (8).png"/>
+
+<img src="./assets/images/Screenshot (9).png"/>
+
+<img src="./assets/images/Screenshot (10).png"/>
+
+<img src="./assets/images/Screenshot (11).png"/>
+
+<img src="./assets/images/Screenshot (12).png"/>
+
+<img src="./assets/images/Screenshot (13).png"/>
+
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+# Author
+
+Devonte Miller
+
+
+# Acknowledgments
+
+Inspired by online quiz and trivia games.
+Built for educational purposes and fun JavaScript practice.
